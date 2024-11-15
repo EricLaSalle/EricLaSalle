@@ -1,10 +1,11 @@
-# 👋 ¡Hola, soy [Eric]!  
+# 👋 ¡Hi, I'm [Eric]!  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Junior+software+developer;Siempre+aprendiendo+nuevas+cosas)](https://git.io/typing-svg)
 
+Welcome to my profile
 ---
 
-## 📫 Conecta conmigo
+## 📫 My social media
 
 <p align="center">
   <a href="https://www.linkedin.com/in/eric-lorenzo-28a2342b7" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -14,7 +15,7 @@
 
 ---
 
-## 💻 Herramientas y tecnologías
+## 💻 Learning technologies
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
@@ -26,11 +27,11 @@
 
 ---
 
-## 🌟 Sobre mí
+## 🌟 About me
 
-- 🔭 Actualmente estudio en: **La Salle Gràcia**
-- 🌱 Aprendiendo sobre: **Java, HTML i CSS**
-- 🎨 Hobbies: **retarme con juegos de programación**
+- 🔭 Currently studyng: **La Salle Gràcia**
+- 🌱 Learning about: **Java, HTML i CSS**
+- 🎨 Hobbies: **programations games**
 
 ---
 
@@ -43,7 +44,7 @@
 
 ---
 
-## 🎉 ¡Gracias por visitar mi perfil!
+## 🎉 ¡Thanks for visiting my profile!
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=EricLaSalle&style=flat-square&color=blue" alt="Contador de visitas">
