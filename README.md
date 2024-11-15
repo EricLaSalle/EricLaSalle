@@ -1,6 +1,6 @@
 # 👋 ¡Hi, I'm [Eric]!  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Junior+software+developer;Siempre+aprendiendo+nuevas+cosas)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Junior+software+developer;Always+learning)](https://git.io/typing-svg)
 
 Welcome to my profile
 ---
