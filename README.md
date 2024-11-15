@@ -4,6 +4,8 @@
 
 Welcome to my profile
 ---
+## 🎯 My actual project
+https://github.com/EricLaSalle/JAVA-JO-EL-exercises 
 
 ## 📫 My social media
 
