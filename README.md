@@ -32,8 +32,8 @@ https://github.com/EricLaSalle/JAVA-JO-EL-exercises
 ## 🌟 About me
 
 - 🔭 Currently studyng: **La Salle Gràcia**
-- 🌱 Learning about: **Java, HTML i CSS**
-- 🎨 Hobbies: **programations games**
+- 🌱 Learning about: **PHP, JavaScript, TypeScript, Python**
+- 🏢 Working at; **Volkswagen Group Services as a QA Intern**
 
 ---
 
