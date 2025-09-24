@@ -33,7 +33,7 @@ https://github.com/EricLaSalle/JAVA-JO-EL-exercises
 
 - 🔭 Currently studyng: **La Salle Gràcia**
 - 🌱 Learning about: **PHP, JavaScript, TypeScript, Python**
-- 🏢 Working at; **Volkswagen Group Services as a QA Intern**
+- 🏢 Working at: **Volkswagen Group Services as a QA Intern**
 
 ---
 
